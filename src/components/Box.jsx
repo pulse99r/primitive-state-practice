@@ -13,6 +13,7 @@ const Box = () => {
       )  : (
         <span>
           <p>Blue - hover over box for red; </p>
+          <p>Hover over box for red; </p>
           <p>Click the change to red when not hovering</p>
 
         </span>
