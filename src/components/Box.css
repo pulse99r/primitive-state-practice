@@ -1,0 +1,19 @@
+#box{
+  border: 1px solid black;
+  height: 180px;
+  width: 180px
+}
+.red{
+  background-color: rgb(254, 35, 35);
+}
+/* .red:hover{
+  cursor: pointer;
+  background-color: rgb(122, 122, 249);
+} */
+.blue{
+  background-color: rgb(122, 122, 249);
+}
+.blue:hover{
+  cursor: pointer;
+  background-color: rgb(254, 35, 35);
+}
