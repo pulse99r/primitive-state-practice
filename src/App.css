@@ -1,0 +1,25 @@
+#root {
+  height: 100vh;
+}
+
+.app {
+  height: 100vh;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 5px;
+  margin: auto;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
